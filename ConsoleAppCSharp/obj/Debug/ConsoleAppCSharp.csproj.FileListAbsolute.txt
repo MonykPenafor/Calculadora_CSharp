@@ -1,7 +1,0 @@
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\bin\Debug\ConsoleAppCSharp.exe.config
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\bin\Debug\ConsoleAppCSharp.exe
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\bin\Debug\ConsoleAppCSharp.pdb
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.csproj.AssemblyReference.cache
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.csproj.CoreCompileInputs.cache
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.exe
-C:\Users\Monyk Penafor\source\repos\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.pdb
